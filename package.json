@@ -1,0 +1,17 @@
+{
+  "name": "server-status-check",
+  "version": "1.0.1",
+  "description": "A server status watcher made by Cody4687.",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "node-fetch": "^2.6.1",
+    "fetch-json": "^2.4.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cody4687",
+  "license": "ISC"
+}
